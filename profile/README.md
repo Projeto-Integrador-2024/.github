@@ -38,8 +38,8 @@
 
 ### Tecnologias utilizadas
 
-<img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
 <img src="https://skillicons.dev/icons?i=python,flask,sqlite" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 ---
