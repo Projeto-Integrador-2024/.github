@@ -1,6 +1,6 @@
 <h1 align="center">
         <samp>&gt; Olá, bem-vindos ao
-                <b><a target="_blank" href="https://github.com/devagas-utfpr">PPE</a></b>
+                <b>PPE</b>
         </samp>
 </h1>
 
