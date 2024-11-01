@@ -1,8 +1,8 @@
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Olá, bem-vindos ao
                 <b><a target="_blank" href="https://github.com/devagas-utfpr">PPE</a></b>
         </samp>
-</h3>
+</h1>
 
 <p align="center"> 
   <samp>
